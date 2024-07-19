@@ -6,4 +6,4 @@
 * 리니
 * 카고
 * 폭포
-* 호티
+* [호티](https://github.com/BurningFalls/git-practice/blob/ho-tea/team-member-introduction/ho-tea.md)
