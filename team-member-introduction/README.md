@@ -5,7 +5,7 @@
 * [해나](https://github.com/BurningFalls/git-practice/blob/hxeyexn/team-member-introduction/Hannah.md)
 * [리니](https://github.com/BurningFalls/git-practice/blob/linirini/team-member-introduction/linirini.md)
 * [카고](https://github.com/BurningFalls/git-practice/blob/devhoya97/team-member-introduction/kargo.md)
-* [폭포](https://github.com/BurningFalls/git-practice/blob/burningfalls/team-member-introduction/pokpo.md)
+* [폭포🫰](https://github.com/BurningFalls/git-practice/blob/burningfalls/team-member-introduction/pokpo.md)
 * [호티](https://github.com/BurningFalls/git-practice/blob/ho-tea/team-member-introduction/ho-tea.md)
 
 ## 프로젝트 소개
