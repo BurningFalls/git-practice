@@ -7,3 +7,7 @@
 * [카고](https://github.com/BurningFalls/git-practice/blob/devhoya97/team-member-introduction/kargo.md)
 * [폭포](https://github.com/BurningFalls/git-practice/blob/burningfalls/team-member-introduction/pokpo.md)
 * [호티](https://github.com/BurningFalls/git-practice/blob/ho-tea/team-member-introduction/ho-tea.md)
+
+## 프로젝트 소개
+
+스타카토는 여행의 추억을 지도 위에 함께 기록하고 공유하는 서비스입니다.
